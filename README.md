@@ -1,0 +1,1 @@
+# Metashape_Optimize_Automator
